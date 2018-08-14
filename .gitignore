@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/.vs/WpfExtensions/v14
+/src/WpfExtensions/bin
+/src/WpfExtensions/obj
+/src/WpfExtensionsNuGet/bin
+/src/WpfExtensionsNuGet/obj
