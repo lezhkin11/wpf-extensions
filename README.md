@@ -9,7 +9,7 @@ Install-Package WpfEx
 ```
 
 ### Extensions
-- Custom Sorter for the DataGrid Columns
+- [Custom Sorter for the DataGrid Columns](https://github.com/lezhkin11/wpf-extensions/wiki/DataGrid-Columns-Custom-Sorter)
 
 ### Licence
 [MIT License (MIT)](./LICENSE)
