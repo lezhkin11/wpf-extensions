@@ -3,7 +3,7 @@
     using System.Collections.Generic;
     using System.Runtime.InteropServices;
 
-    public class StringLogicalComparer : Comparer<string>
+    public class StrLogicalComparer : Comparer<string>
     {
         [DllImport("Shlwapi.dll", CharSet = CharSet.Unicode)]
         private static extern int StrCmpLogicalW(string x, string y);
