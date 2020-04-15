@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExtensions", "WpfExtensions\WpfExtensions.csproj", "{300B2C50-EC31-4A32-BD49-B5020BE241A1}"
-EndProject
-Project("{FF286327-C783-4F7A-AB73-9BCBAD0D4460}") = "WpfExtensionsNuGet", "WpfExtensionsNuGet\WpfExtensionsNuGet.nuproj", "{B13B076F-EF9A-4AD5-BC6C-E0D188AD5977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +15,11 @@ Global
 		{300B2C50-EC31-4A32-BD49-B5020BE241A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300B2C50-EC31-4A32-BD49-B5020BE241A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300B2C50-EC31-4A32-BD49-B5020BE241A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B13B076F-EF9A-4AD5-BC6C-E0D188AD5977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B13B076F-EF9A-4AD5-BC6C-E0D188AD5977}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B13B076F-EF9A-4AD5-BC6C-E0D188AD5977}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B13B076F-EF9A-4AD5-BC6C-E0D188AD5977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B15E43-F43E-46B1-A619-EFCC9AE6A012}
 	EndGlobalSection
 EndGlobal
