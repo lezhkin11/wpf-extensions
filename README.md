@@ -1,12 +1,6 @@
-# WPF Extensions
-Extensions for the WPF Controls
-
-### NuGet Package:
-[WpfEx](https://www.nuget.org/packages/WpfEx)
-
-```
-Install-Package WpfEx
-```
+ <a href="https://www.nuget.org/packages/WpfEx">
+    <img src="https://img.shields.io/nuget/v/WpfEx.svg?style=flat-square">
+ </a>
 
 ### Custom Grid Sorting
 
