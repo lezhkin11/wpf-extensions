@@ -8,7 +8,7 @@ Extensions for the WPF Controls
 Install-Package WpfEx
 ```
 
-### Examples
+### Custom Grid Sorting
 
 Without Custom Sorting     |  Custom Sorting
 :-------------------------:|:-------------------------:
