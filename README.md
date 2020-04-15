@@ -1,6 +1,5 @@
- <a href="https://www.nuget.org/packages/WpfEx">
-    <img src="https://img.shields.io/nuget/v/WpfEx.svg?style=flat-square">
- </a>
+ # WPF Extensions
+ [![NuGet](https://img.shields.io/nuget/v/WpfEx.svg)](https://www.nuget.org/packages/WpfEx)
 
 ### Custom Grid Sorting
 
