@@ -1,9 +1,14 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿.vs
+.vscode
+.idea
 
-/src/.vs/WpfExtensions/v14
-/src/WpfExtensions/bin
-/src/WpfExtensions/obj
-/src/WpfExtensionsNuGet/bin
-/src/WpfExtensionsNuGet/obj
+/src/packages
+
+*.suo
+*.user
+
+/src/packages
+[Bb]in
+[Oo]bj
+
+_ReSharper.Caches
