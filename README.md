@@ -1,14 +1,14 @@
  # WPF Extensions
  [![NuGet](https://img.shields.io/nuget/v/WpfEx.svg)](https://www.nuget.org/packages/WpfEx)
 
-### Custom Grid Sorting
+## Custom Grid Sorting
 
 Without Custom Sorting     |  Custom Sorting
 :-------------------------:|:-------------------------:
 ![no custom sorting](https://raw.githubusercontent.com/lezhkin11/wpf-extensions/master/docs/column_without_custom_sorting.png)  |  ![custom sorting](https://raw.githubusercontent.com/lezhkin11/wpf-extensions/master/docs/column_custom_sorting_str_logical_comparer.png)
 
 
-### Usage 
+## Usage 
 1) Enable custom sorting for DataGrid by `UseCustomSort`
 2) Set `CustomSorter` or `CustomSorterType` for columns you want apply custom sorting.
    - Sorter must implement `IComparer`
@@ -23,7 +23,7 @@ Without Custom Sorting     |  Custom Sorting
 </DataGrid>
 ```
 
-### Supports Nested Properties
+## Supports Nested Properties
 
 ```xml
 <DataGrid attached:DataGridHelpers.UseCustomSort="True" ItemsSource="{Binding Items}" AutoGenerateColumns="False">
@@ -35,8 +35,8 @@ Without Custom Sorting     |  Custom Sorting
 ```
 
 
-### Extensions
+## Extensions
 - [Custom Sorter for the DataGrid Columns](https://github.com/lezhkin11/wpf-extensions/wiki/DataGrid-Columns-Custom-Sorter)
 
-### Licence
+## Licence
 [MIT License (MIT)](./LICENSE)
