@@ -1,5 +1,5 @@
  # WPF Extensions
- [![NuGet](https://img.shields.io/nuget/v/WpfEx.svg)](https://www.nuget.org/packages/WpfEx)
+ [![NuGet](https://img.shields.io/nuget/v/WpfEx.svg?style=for-the-badge)](https://www.nuget.org/packages/WpfEx)
 
 ## Custom Grid Sorting
 
